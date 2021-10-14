@@ -1,0 +1,6 @@
+*.pfx
+/script/*.key
+/script/*.pem
+/script/collect_jpeg_bk.pl
+/script/download_bk.py
+*.zip
